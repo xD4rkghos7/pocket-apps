@@ -12,7 +12,6 @@ Personal app store for Mudita Kompakt.
 
 | App | Description | Status |
 |-----|-------------|--------|
-| Scoundrel | Roguelike card game | Available |
 | Kompakt Games | Game collection | Coming Soon |
 | Kompakt Crypto | Encryption tools | Coming Soon |
 
