@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-29",
+  "apps": [
+    {
+      "id": "scoundrel",
+      "name": "Scoundrel",
+      "icon": "🃏",
+      "version": "1.0.0",
+      "size": "156 KB",
+      "author": "Mateo",
+      "category": "Juegos",
+      "shortDesc": "Roguelike de cartas solitario",
+      "description": "Scoundrel es un juego de cartas roguelike donde exploras una mazmorra usando un mazo de 44 cartas. Enfrenta monstruos, encuentra armas y pociones, y sobrevive lo más que puedas. Incluye 5 niveles de dificultad, múltiples modos de juego, estadísticas detalladas y soporte bilingüe ES/EN.",
+      "changelog": "v1.0.0 - Lanzamiento inicial con todos los modos de juego",
+      "apkFile": "scoundrel-1.0.0.apk",
+      "minAndroid": "8.0"
+    },
+    {
+      "id": "kompakt-games",
+      "name": "Kompakt Games",
+      "icon": "🎮",
+      "version": "1.0.0",
+      "size": "~300 KB",
+      "author": "Mateo",
+      "category": "Juegos",
+      "shortDesc": "Colección de 10+ juegos para e-ink",
+      "description": "Colección de juegos optimizados para pantalla e-ink. Incluye: Trivia, Ahorcado, 2048, Snake, Tic-Tac-Toe, Memory, Would You Rather, Number Guessing, Word Scrambler, Simon Says.",
+      "changelog": "v1.0.0 - Próximamente",
+      "apkFile": "kompakt-games-1.0.0.apk",
+      "minAndroid": "8.0",
+      "status": "coming-soon"
+    },
+    {
+      "id": "kompakt-crypto",
+      "name": "Kompakt Crypto",
+      "icon": "🔐",
+      "version": "1.0.0",
+      "size": "~100 KB",
+      "author": "Mateo",
+      "category": "Utilidades",
+      "shortDesc": "Encriptación y generador de contraseñas",
+      "description": "Herramienta de encriptación con múltiples cifrados: Base64, César, ROT13, Morse, Binario, Hex, Atbash. Incluye generador de contraseñas seguras y bóveda con contraseña maestra.",
+      "changelog": "v1.0.0 - Próximamente",
+      "apkFile": "kompakt-crypto-1.0.0.apk",
+      "minAndroid": "8.0",
+      "status": "coming-soon"
+    }
+  ]
+}
