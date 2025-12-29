@@ -33,19 +33,18 @@
       "status": "coming-soon"
     },
     {
-      "id": "kompakt-crypto",
-      "name": "Kompakt Crypto",
+      "id": "kompakt-krypto",
+      "name": "Kompakt Krypto",
       "icon": "🔐",
       "version": "1.0.0",
-      "size": "~100 KB",
+      "size": "~30 KB",
       "author": "Mateo",
       "category": "Utilidades",
       "shortDesc": "Encriptación y generador de contraseñas",
-      "description": "Herramienta de encriptación con múltiples cifrados: Base64, César, ROT13, Morse, Binario, Hex, Atbash. Incluye generador de contraseñas seguras y bóveda con contraseña maestra.",
-      "changelog": "v1.0.0 - Próximamente",
-      "apkFile": "kompakt-crypto-1.0.0.apk",
-      "minAndroid": "8.0",
-      "status": "coming-soon"
+      "description": "Herramienta de encriptación con múltiples cifrados: Base64, César, ROT13, Morse, Binario, Hex, Atbash, Reversa. Generador de contraseñas seguras con medidor de fortaleza. Bóveda encriptada para notas secretas.",
+      "changelog": "v1.0.0 - Lanzamiento inicial",
+      "apkFile": "kompakt-krypto-1.0.0.apk",
+      "minAndroid": "8.0"
     }
   ]
 }
