@@ -14,7 +14,7 @@
       "description": "Kompakt Manager te ayuda a mantener todos tus archivos en orden, pudes hacer lo que sea sin necesidad de usar una computadora desde tu telefono",
       "changelog": "v1.0.0 - Lanzamiento inicial con todas las configuraciones iniciales",
       "apkFile": "kompakt-manager-1.0.0.apk",
-      "minAndroid": "8.0",
+      "minAndroid": "8.0"
     },
     {
       "id": "kompakt-games",
@@ -43,7 +43,7 @@
       "description": "Herramienta de encriptación con múltiples cifrados: Base64, César, ROT13, Morse, Binario, Hex, Atbash, Reversa. Generador de contraseñas seguras con medidor de fortaleza. Bóveda encriptada para notas secretas.",
       "changelog": "v1.0.0 - Lanzamiento inicial!",
       "apkFile": "kompakt-krypto-1.0.0.apk",
-      "minAndroid": "8.0",
+      "minAndroid": "8.0"
     },
     {
       "id": "kompakt-transfer",
@@ -59,9 +59,6 @@
       "apkFile": "kompakt-transfer-1.0.0.apk",
       "minAndroid": "8.0",
       "status": "coming-soon"
-    },
-    {
-      
     }
   ]
 }
