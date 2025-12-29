@@ -3,18 +3,19 @@
   "lastUpdated": "2025-12-29",
   "apps": [
     {
-      "id": "scoundrel",
-      "name": "Scoundrel",
+      "id": "kompakt-manager",
+      "name": "Kompakt Manager",
       "icon": "🃏",
       "version": "1.0.0",
       "size": "156 KB",
       "author": "Mateo",
-      "category": "Juegos",
-      "shortDesc": "Roguelike de cartas solitario",
-      "description": "Scoundrel es un juego de cartas roguelike donde exploras una mazmorra usando un mazo de 44 cartas. Enfrenta monstruos, encuentra armas y pociones, y sobrevive lo más que puedas. Incluye 5 niveles de dificultad, múltiples modos de juego, estadísticas detalladas y soporte bilingüe ES/EN.",
-      "changelog": "v1.0.0 - Lanzamiento inicial con todos los modos de juego",
-      "apkFile": "scoundrel-1.0.0.apk",
+      "category": "Archivos",
+      "shortDesc": "Manejador de archivos",
+      "description": "Kompakt Manager te ayuda a mantener todos tus archivos en orden, pudes hacer lo que sea sin necesidad de usar una computadora desde tu telefono",
+      "changelog": "v1.0.0 - Lanzamiento inicial con todas las configuraciones iniciales",
+      "apkFile": "kompakt-manager-1.0.0.apk",
       "minAndroid": "8.0"
+      "status": "coming-soon"
     },
     {
       "id": "kompakt-games",
