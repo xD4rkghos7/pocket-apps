@@ -42,9 +42,25 @@
       "category": "Utilidades",
       "shortDesc": "Encriptación y generador de contraseñas",
       "description": "Herramienta de encriptación con múltiples cifrados: Base64, César, ROT13, Morse, Binario, Hex, Atbash, Reversa. Generador de contraseñas seguras con medidor de fortaleza. Bóveda encriptada para notas secretas.",
-      "changelog": "v1.0.0 - Lanzamiento inicial",
+      "changelog": "v1.0.0 - Lanzamiento inicial!",
       "apkFile": "kompakt-krypto-1.0.0.apk",
-      "minAndroid": "8.0"
+      "minAndroid": "8.0",
+    },
+    {
+      "id": "kompakt-transfer",
+      "name": "Kompakt Transfer",
+      "icon": "📲",
+      "version": "1.0.0",
+      "size": "~20 KB",
+      "author": "Mateo",
+      "category": "Utilidades",
+      "shortDesc": "Transferencia de archivos WiFi",
+      "description": "Transfiere archivos entre tu Kompakt y computadora via WiFi sin necesidad de cables. Envía y recibe archivos fácilmente. Bilingüe ES/EN.",
+      "changelog": "v1.0.0 - Lanzamiento inicial",
+      "apkFile": "kompakt-transfer-1.0.0.apk",
+      "minAndroid": "8.0",
+      "status": "coming-soon"
+      
     }
   ]
 }
