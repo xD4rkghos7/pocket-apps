@@ -13,8 +13,9 @@ Personal app store for Mudita Kompakt.
 | App | Description | Status |
 |-----|-------------|--------|
 | Kompakt Games | Game collection | Coming Soon |
-| Kompakt Crypto | Encryption tools | Coming Soon |
-| Kompakt Manager | File Managing | Coming Soon |
+| Kompakt Krypto | Encryption tools | Available! |
+| Kompakt Manager | File Managing | Available! |
+| Kompakt Transfer | File Transfering | Coming Soon | 
 
 ## Adding apps
 
