@@ -44,11 +44,11 @@
       "category": "Juegos",
       "shortDesc": "Colección de 10+ juegos",
       "description": "Colección de juegos optimizados para pantalla e-ink. Incluye: Trivia, Ahorcado, 2048, Snake, Tic-Tac-Toe, Memory, Would You Rather, Number Guessing, Word Scrambler, Simon Says.",
-      "changelog": "v1.0.0 - Próximamente",
+      "changelog": "v1.0.0 - Lanzamiento inicial",
       "apkFile": "kompakt-games-1.0.0.apk",
       "packageName": "com.kompakt.games",
+      "releaseTag": "v1.0.0",
       "minAndroid": "8.0",
-      "status": "coming-soon"
     },
     {
       "id": "kompakt-transfer",
@@ -63,8 +63,8 @@
       "changelog": "v1.0.0 - Próximamente",
       "apkFile": "kompakt-transfer-1.0.0.apk",
       "packageName": "com.kompakt.transfer",
+      "releaseTag": "v1.0.0",
       "minAndroid": "8.0",
-      "status": "coming-soon"
     }
   ]
 }
