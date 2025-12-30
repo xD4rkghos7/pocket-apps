@@ -60,7 +60,7 @@
       "category": "Utilidades",
       "shortDesc": "Transferencia WiFi",
       "description": "Transfiere archivos entre tu Kompakt y computadora via WiFi sin necesidad de cables.",
-      "changelog": "v1.0.0 - Próximamente",
+      "changelog": "v1.0.0 - Lanzamiento inicial",
       "apkFile": "kompakt-transfer-1.0.0.apk",
       "packageName": "com.kompakt.transfer",
       "releaseTag": "v1.0.0",
