@@ -1,4 +1,4 @@
-{
+p{
   "version": "3.0.0",
   "lastUpdated": "2025-12-30",
   "apps": [
@@ -48,7 +48,7 @@
       "apkFile": "kompakt-games-1.0.0.apk",
       "packageName": "com.kompakt.games",
       "releaseTag": "v1.0.0",
-      "minAndroid": "8.0",
+      "minAndroid": "8.0"
     },
     {
       "id": "kompakt-transfer",
@@ -64,7 +64,7 @@
       "apkFile": "kompakt-transfer-1.0.0.apk",
       "packageName": "com.kompakt.transfer",
       "releaseTag": "v1.0.0",
-      "minAndroid": "8.0",
+      "minAndroid": "8.0"
     }
   ]
 }
