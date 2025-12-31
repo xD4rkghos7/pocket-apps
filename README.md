@@ -12,14 +12,14 @@ Personal app store for Mudita Kompakt.
 
 | App | Description | Status |
 |-----|-------------|--------|
-| Kompakt Games | Game collection | Coming Soon |
+| Kompakt Games | Game collection | Available! |
 | Kompakt Krypto | Encryption tools | Available! |
 | Kompakt Manager | File Managing | Available! |
-| Kompakt Transfer | File Transfering | Coming Soon | 
-
+| Kompakt Transfer | File Transfering | Available! | 
+|              MORE APPS COMING SOON!              |
 ## Adding apps
 
-1. Upload APK to this repo (root folder)
+1. Upload APK to this repo (release folder)
 2. Edit apps.json with app info
 3. Commit changes
 
