@@ -1,4 +1,5 @@
-	"version": "3.0.0",
+{
+  	"version": "3.0.0",
   "lastUpdated": "2025-12-30",
   "apps": [
     {
@@ -66,4 +67,5 @@
       "minAndroid": "8.0"
     }
   ]
+}
 
